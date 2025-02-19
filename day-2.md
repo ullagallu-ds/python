@@ -85,7 +85,7 @@ elif marks >= 70:
 else:
     print("Grade: C")
 
-# Checking multiple conditions using and
+# Checking multiple conditions using
 age = 25
 income = 40000
 if age > 18 and income > 30000:
@@ -164,10 +164,8 @@ else:
     print("Invalid operator")
 ```
 
-
-```python
 # Weight Conversion Program
-
+```python
 weight = float(input("Enter weight: "))
 unit = input("Enter unit (kg, g, lb, oz): ").lower()
 
