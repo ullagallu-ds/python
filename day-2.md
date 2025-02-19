@@ -1,3 +1,7 @@
+# Index
+- arithmetic & math using python
+- if else conditions
+- examples
 # arithmetic & math
 Arithmetic Operations in Python
 Python provides basic arithmetic operators for mathematical calculations:
